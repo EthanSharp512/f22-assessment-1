@@ -5,12 +5,12 @@
     Reorganize the following steps of the Software Development Lifecycle to be in their correct order.
 */
 
+// Planning
 // Analysis of Requirements
 // Design
 // Implementation
-// Maintain
-// Planning
 // Testing & Integration
+// Maintain
 
 
 //////////////////PROBLEM 2////////////////////
