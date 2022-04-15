@@ -26,6 +26,6 @@ const design = "The third step will be using the requirements attained through s
 
 const implementation = "The fourth step is where the coding begins. Code is written and piece by piece is getting ready to be implemented to the project."
 
-const testingAndIntegration = "On step five, actual integration of the written code takes place, and developers begin to debug and report issues so the program can be used."
+const testingAndIntegration = "On step five, actual integration of the written code takes place, and developers begin to debug and report issues so the program can be used. In some cases developers even go back to the first steps if drastic issues arise."
 
-const mantain = "The project is done and made availible for users "
+const mantain = "The project is done and made available for users, and teams will create patches and updates to maintain the program post release."
