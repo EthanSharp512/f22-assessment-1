@@ -72,7 +72,7 @@ let gitAddCode = "Use 'git add .' to track/add all files in the current director
 
 //CODE HERE
 let gitCommitDefinition = "Git commit is a way to take a 'snapshot' of your code at that point in time to save that checkpoint to your local repository."
-let gitCommitCode = "git commit -, 'initial commit' "
+let gitCommitCode = "git commit -m 'initial commit' "
 
 //////////////////PROBLEM 8////////////////////
 /*
