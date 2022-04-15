@@ -81,3 +81,4 @@ let gitCommitCode = "git commit -m 'initial commit' "
 */
 
 //CODE HERE
+let gitPushDefinition = "Git push will send all added/tracked files and commits that you have made in your local repository and send them to your GitHub repository that you have linked it to via the url of said cloud repo."
