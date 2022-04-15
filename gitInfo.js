@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+let gitDefinition = "A version control software for developers to keep track of changes being made to code and files, and to keep history or timestamps on code to be referred to later."
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +18,7 @@
 */
 
 //CODE HERE
+let gitHubDefinition = "GitHub acts as a cloud for code by utilizing git and storing repositories, and makes it easier for devolopers and teams to use git for version control and working together."
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +27,7 @@
 */
 
 //CODE HERE
+let gitInitDefinition = "Git init will create an empty local git repository."
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +36,7 @@
 */
 
 //CODE HERE
+let gitCloneDefinition = "Git clone is a tool used to copy an existing repository either locally or through GitHub with a url."
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +45,7 @@
 */
 
 //CODE HERE
+let gitStatusDefinition = "Git status will tell you the working directory of a reopository and which files are not being tracked by git."
 
 //////////////////PROBLEM 6////////////////////
 /*
