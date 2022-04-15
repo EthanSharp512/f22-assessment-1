@@ -57,8 +57,8 @@ let gitStatusDefinition = "Git status will tell you the working directory of a r
 */
 
 //CODE HERE
-let gitAddDefinition = "Git add is a function used to add files to git to be tracked."
-let gitAddCode = "Use 'git add .' to track/add all files in the current directory."
+let gitAddDefinition = "Git add is a function used to add files to git to be tracked, typically using '.' referring to the current directory."
+let gitAddCode = "git add."
 
 
 //////////////////PROBLEM 7////////////////////
