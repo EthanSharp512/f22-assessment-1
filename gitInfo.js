@@ -57,6 +57,9 @@ let gitStatusDefinition = "Git status will tell you the working directory of a r
 */
 
 //CODE HERE
+let gitAddDefinition = "Git add is a function used to add files to git to be tracked."
+let gitAddCode = "Use 'git add .' to track/add all files in the current directory."
+
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -68,7 +71,8 @@ let gitStatusDefinition = "Git status will tell you the working directory of a r
 */
 
 //CODE HERE
-
+let gitCommitDefinition = "Git commit is a way to take a 'snapshot' of your code at that point in time to save that checkpoint to your local repository."
+let gitCommitCode = "git commit -, 'initial commit' "
 
 //////////////////PROBLEM 8////////////////////
 /*
